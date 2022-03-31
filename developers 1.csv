@@ -1,0 +1,181 @@
+devsite-article,devsite-breadcrumb-link,devsite-breadcrumb-link href,devsite-breadcrumb-link 2,devsite-breadcrumb-link href 2,devsite-breadcrumb-link 3,devsite-breadcrumb-link href 3,devsite-article 2,devsite-landing-row-item-image href,devsite-landing-row-item-image src,hide-from-toc,devsite-landing-row-item-description-content,devsite-landing-row-item-description-content href,devsite-landing-row-item-description-content 3,devsite-landing-row-item-description-content href 2,devsite-landing-row-item-description-content 4,devsite-landing-row-item-description-content 5,devsite-landing-row-item-description-content 6,button,devsite-landing-row-header-text,devsite-landing-row-description,devsite-landing-row-item-description href,devsite-landing-row-item-icon,hide-from-toc 2,devsite-landing-row-item-description-content 7,button 2,devsite-landing-row-item-description href 2,devsite-landing-row-item-icon 2,hide-from-toc 3,devsite-landing-row-item-description-content 8,button 3,devsite-landing-row-item-description href 3,devsite-landing-row-item-icon 3,hide-from-toc 4,devsite-landing-row-item-description-content 9,button 4,devsite-landing-row-item-description href 4,devsite-landing-row-item-icon 4,hide-from-toc 5,devsite-landing-row-item-description-content 10,button 5,devsite-landing-row-header-text 2,devsite-landing-row-description 2,button 6,devsite-landing-row-item-image src 2,hide-from-toc 6,devsite-landing-row-item-description-content 11,devsite-landing-row-item-description-content 12,devsite-landing-row-item-description-content 13,devsite-landing-row-item-description-content href 4,devsite-landing-row-item-description-content 14,devsite-landing-row-item-description-content href 5,devsite-landing-row-item-description-content 15,devsite-landing-row-item-description-content href 6,devsite-landing-row-item-description-content 16,devsite-landing-row-item-description-content href 7,devsite-landing-row-item-image src 3,hide-from-toc 7,devsite-landing-row-item-description-content 17,devsite-landing-row-item-description-content 18,devsite-landing-row-item-description-content href 8,devsite-landing-row-item-description-content 19,devsite-landing-row-item-description-content href 9,devsite-landing-row-item-description-content 20,devsite-landing-row-item-description-content href 10,devsite-landing-row-item-description-content 21,devsite-landing-row-item-description-content href 11,devsite-landing-row-item-image src 4,hide-from-toc 8,devsite-landing-row-item-description-content 22,devsite-landing-row-item-description-content 23,devsite-landing-row-item-description-content href 12,devsite-landing-row-item-description-content 24,hide-from-toc 9,devsite-landing-row-item-description-content 25,button 7,devsite-footer-promo-title,devsite-footer-promo-title href,devsite-footer-promo-icon src,devsite-footer-promo-description,devsite-footer-promo-title 2,devsite-footer-promo-title href 2,devsite-footer-promo-icon src 2,devsite-footer-promo-description 2,devsite-footer-promo-title 3,devsite-footer-promo-title href 3,devsite-footer-promo-icon src 3,devsite-footer-promo-description 3,devsite-footer-promo-title 4,devsite-footer-promo-title href 4,devsite-footer-promo-icon src 4,devsite-footer-promo-description 4,devsite-footer-promo-title 5,devsite-footer-promo-title href 5,devsite-footer-promo-icon src 5,devsite-footer-promo-description 5,devsite-footer-linkbox-heading,devsite-footer-linkbox-link,devsite-footer-linkbox-link href,devsite-footer-linkbox-link 2,devsite-footer-linkbox-link href 2,devsite-footer-linkbox-link 3,devsite-footer-linkbox-link href 3,devsite-footer-linkbox-link 4,devsite-footer-linkbox-link href 4,devsite-footer-linkbox-link 5,devsite-footer-linkbox-link href 5,devsite-footer-linkbox-heading 2,devsite-footer-linkbox-link 6,devsite-footer-linkbox-link href 6,devsite-footer-linkbox-link 7,devsite-footer-linkbox-link href 7,devsite-footer-linkbox-link 8,devsite-footer-linkbox-link href 8,devsite-footer-linkbox-link 9,devsite-footer-linkbox-link href 9,devsite-footer-linkbox-link 10,devsite-footer-linkbox-link href 10,devsite-footer-linkbox-heading 3,devsite-footer-linkbox-link 11,devsite-footer-linkbox-link href 11,devsite-footer-linkbox-link 12,devsite-footer-linkbox-link href 12,devsite-footer-linkbox-link 13,devsite-footer-linkbox-link href 13,devsite-footer-linkbox-link 14,devsite-footer-linkbox-link href 14,devsite-footer-linkbox-link 15,devsite-footer-linkbox-link href 15,devsite-footer-linkbox-link 16,devsite-footer-linkbox-link href 16,devsite-footer-linkbox-link 17,devsite-footer-linkbox-link href 17,devsite-footer-sites-logo-link href,devsite-footer-sites-logo src,devsite-footer-sites-link,devsite-footer-sites-link href,devsite-footer-sites-link 2,devsite-footer-sites-link href 2,devsite-footer-sites-link 3,devsite-footer-sites-link href 3,devsite-footer-sites-link 4,devsite-footer-sites-link href 4,devsite-footer-sites-link 5,devsite-footer-sites-link href 5,devsite-footer-utility-link,devsite-footer-utility-link href,devsite-footer-utility-link 2,devsite-footer-utility-link href 2,devsite-footer-utility-description,devsite-footer-utility-link 3,devsite-footer-utility-link href 3,devsite-language-selector-select,devsite-language-selector-select 2,devsite-language-selector-select 3,devsite-language-selector-select 4,devsite-language-selector-select 5,devsite-language-selector-select 6,devsite-language-selector-select 7,devsite-language-selector-select 8,devsite-language-selector-select 9,devsite-language-selector-select 10,devsite-language-selector-select 11,devsite-select
+"/* Styles inlined from /earth-engine/css/base.css */
+.ee-schema-metadata {
+  display: none;
+}
+
+.ee-tag-buttons a.ee-chip {
+  background-color: #f1f2f5;
+  border-radius: 8px;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  color: #5f6368;
+  display: inline-block;
+  font-weight: 100;
+  font-size: 10pt;
+  margin: 4px 2px;
+  padding: 5px 11px;
+  text-transform: lowercase;
+
+}
+
+a.open-in-ee .material-icons {
+  color: #212121;
+  font-size: 14pt;
+  vertical-align: middle;
+}
+
+a.open-in-ee .material-icons:hover {
+  color: #1b69d2;
+}
+
+.ee-tag-buttons a.ee-chip:hover {
+  background: #e7f0fe;
+  color: #1b69d2;
+  text-transform: lowercase;
+}
+
+.ee-tag-buttons .ee-small {
+  text-align: center;
+}
+
+.ee-sample-image figure {
+  text-align: center;
+}
+
+/* controls icon used next to image collection buttons */
+.ee-tag-buttons span.material-icons {
+  display: inline-block;
+  font-size: 17px;
+  margin-right: 4px;
+}
+
+.ee-datasets-grid ul {
+  display: grid;
+  display: -ms-grid;
+  grid-gap: 5px;
+  grid-template-columns: repeat(auto-fill, minmax(256px, 1fr));
+  -ms-grid-columns: repeat(auto-fill, minmax(256px, 1fr));
+  list-style-type: none;
+  margin: 0 auto 20px;
+}
+
+.ee-datasets-grid.ee-tags ul {
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  -ms-grid-columns: repeat(auto-fill, minmax(200px, 1fr));
+}
+
+.ee-datasets-grid ul.list tr,
+.ee-datasets-grid ul.list td {
+  background: transparent !important;
+}
+
+.ee-datasets-grid .ee-dataset-description-snippet {
+  height: 150px;
+  overflow: hidden;
+}
+
+.ee-datasets-grid ul.list h3 {
+  font-size: 13pt;
+  height: 80px;
+  line-height: 18pt;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  overflow: hidden;
+}
+.ee-datasets-grid.ee-tags .list h3 {
+  height: 24px;
+}
+
+.ee-datasets-grid .ee-tag-header {
+  height: auto;
+}
+
+.ee-datasets-grid ul.list {
+  padding-left: 0px;
+}
+
+.material-icons.tabs {
+  vertical-align: middle;
+}
+
+.ee-datasets-grid .ee-sample-image img {
+  height: 256px;
+  max-width: 100%;
+}
+
+@media only screen and (max-width:750px) {
+  .ee-datasets-grid .ee-sample-image img {
+    display: none;
+  }
+}
+
+.ee-signup-modal-dialog {
+  left: 50%;
+  margin-left: -274px;
+  top: 25%;
+  width: 548px;
+}
+
+.ee-tag-quantity {
+  color: #9e9e9e;
+  font-size: 10pt;
+  line-height: 8pt;
+}
+
+.ee-full-bleed {
+  margin: 0 calc(50% - 50vw);
+  max-width: inherit;
+}
+
+.ee-full-bleed:first-child div {
+  padding: 0px;
+}
+
+.ee-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+div.ee-thumbnail {
+  height: 100%;
+  vertical-align: middle;
+}
+
+img.ee-thumbnail {
+  min-width: 256px;
+  margin-right: 20px;
+}
+
+.ee-container dl {
+  max-width: 700px;
+  display: block;
+}
+
+.ee-logo-container img {
+  height: 51px;
+}
+
+.landing-dataset .material-icons {
+  color: #4285f4;
+}
+
+.landing-compute .material-icons {
+  color: #ea4335;
+}
+
+.landing-apis .material-icons {
+  color: #fbbc04;
+}
+
+.landing-apps .material-icons {
+  color: #34a853;
+}",Home,https://developers.google.com/,Products,https://developers.google.com/products,Google Earth Engine,https://developers.google.com/earth-engine,Send feedback,https://developers.google.com/earth-engine/guides/getstarted,https://developers.google.com/earth-engine/images/ee_earth_satellite.png,Welcome to Google Earth Engine,"is a geospatial processing service.  With Earth Engine, you can perform geospatial processing at scale, powered by .  The purpose of Earth Engine is to:",https://earthengine.google.com/,Google Cloud Platform,https://cloud.google.com/,Provide an interactive platform for geospatial algorithm development at scale,"Enable high-impact, data-driven science",Make substantive progress on global challenges that involve large geospatial datasets,Get Started!,About Google Earth Engine,"Earth Engine is a public data catalog, compute infrastructure, geospatial APIs and an interactive app server.",https://developers.google.com/earth-engine/datasets,storage,Datasets,Petabyte-scale catalog of public and free-to-use geospatial datasets.,Explore the Data Catalog,http://www.sciencedirect.com/science/article/pii/S0034425717302900,memory,Compute,Leverage Google's cloud platform for planetary-scale analysis of Earth science data.,Read the publication,https://developers.google.com/earth-engine/guides,code,APIs,"Full-featured JavaScript, Python and REST APIs.",Developer guides,https://www.earthengine.app/,language,Apps,"Dynamic, publicly accessible user interfaces for Earth Engine analyses.",Apps gallery,How to use Google Earth Engine,Connect to the Earth Engine service through one of the APIs.  Client libraries for JavaScript and Python translate complex geospatial analyses to Earth Engine requests.  Or connect directly to Earth Engine servers using the REST API.,Developer Guides,https://developers.google.com/earth-engine/images/landing_ee_logo.png,JavaScript,"using the , the  in Node.js (), or",Interactive JavaScript,Code Editor,https://developers.google.com/earth-engine/guides/playground,"open source
+  JavaScript library",https://github.com/google/earthengine-api/tree/master/javascript,"learn
+more about Earth Engine in Node.js",https://developers.google.com/earth-engine/guides/npm_install,"Earth
+  Engine Apps.",https://developers.google.com/earth-engine/guides/apps,https://developers.google.com/earth-engine/images/landing_colab_logo.png,Python,"The  running in
+, , or App Engine ().","open source Python
+  library",https://github.com/google/earthengine-api/tree/master/python,Colab,https://colab.research.google.com/github/google/earthengine-api/blob/master/python/examples/ipynb/ee-api-colab-setup.ipynb,your Python environment,https://developers.google.com/earth-engine/guides/python_install,learn more about Earth Engine powered App Engine apps,https://developers.google.com/earth-engine/guides/app_engine_intro,https://developers.google.com/earth-engine/images/landing_gcp_logo.png,REST,"Authenticated HTTP requests ().  The REST API contains new and advanced features that may not be suitable for all users.  If you are new to Earth Engine, please get started with the .",learn more about the Earth Engine REST API,https://developers.google.com/earth-engine/reference,JavaScript guide,Get started,Get started with the JavaScript guides and interactive coding in the Earth Engine Code Editor.,Guides,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GitHub,https://github.com/google/earthengine-api,https://developers.google.com/site-assets/logo-github.svg,Earth Engine on GitHub,Medium,https://medium.com/google-earth,https://developers.google.com/site-assets/logo-medium.svg,Follow our blog on Medium,GIS Stack Exchange,https://gis.stackexchange.com/questions/tagged/google-earth-engine,https://developers.google.com/site-assets/logo-gis-stack-exchange.svg,Ask questions using the google-earth-engine tag,Twitter,https://twitter.com/googleearth,https://developers.google.com/site-assets/logo-twitter.svg,Follow @googleearth on Twitter,Videos,https://www.youtube.com/googleearth,https://www.gstatic.com/images/icons/material/product/2x/youtube_64dp.png,Earth Engine on YouTube,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Connect,Blog,https://googledevelopers.blogspot.com/,Facebook,https://www.facebook.com/Google-Developers-967415219957038,Medium,https://medium.com/google-developers,Twitter,https://twitter.com/googledevs,YouTube,https://www.youtube.com/user/GoogleDevelopers,Programs,Women Techmakers,https://www.womentechmakers.com/,Google Developer Groups,https://developers.google.com/community/gdg,Google Developers Experts,https://developers.google.com/community/experts,Accelerators,https://developers.google.com/community/accelerators,Google Developer Student Clubs,https://developers.google.com/community/gdsc,Developer consoles,Google API Console,https://console.developers.google.com/,Google Cloud Platform Console,https://console.cloud.google.com/,Google Play Console,https://play.google.com/apps/publish,Firebase Console,https://console.firebase.google.com/,Actions on Google Console,https://console.actions.google.com/,Cast SDK Developer Console,https://cast.google.com/publish,Chrome Web Store Dashboard,https://chrome.google.com/webstore/developer/dashboard,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://developers.google.com/,https://www.gstatic.com/devrel-devsite/prod/v60a82f989527785dbe37a03a591468114489a6d17469fe0c9f3dbd5a48c1b36c/developers/images/lockup-developers.svg,Android,https://developer.android.com/,Chrome,https://developer.chrome.com/home,Firebase,https://firebase.google.com/,Google Cloud Platform,https://cloud.google.com/,All products,https://developers.google.com/products,Terms,https://developers.google.com/terms/site-terms,Privacy,https://policies.google.com/privacy,Sign up for the Google Developers newsletter,Subscribe,https://services.google.com/fb/forms/googledevelopersnewsletter/?utm_medium=referral&utm_source=google-products&utm_team=googledevs&utm_campaign=201611-newsletter-launch,Language,English,Bahasa Indonesia,Deutsch,Español,Français,Português – Brasil,Русский,中文 – 简体,日本語,한국어,Select an option
